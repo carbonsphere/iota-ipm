@@ -1,7 +1,7 @@
 ############################################################
 # If this docker container helps you in anyway 
 # please consider making a donation to the following address
-# IOTA: IGTKRHHTOIAHB9HCYIZNLPASKHEENKIJICZCCJSUXNZGFKYRLNOJQ9TMXIJYFUBLQ9YWXRMSMWXNDQWD9QINXNXOXW
+# IOTA: FBIDRYFZKSYNGQICJTPPYAFUKYGCEVLCKHPKAXHLBGXJ9ENVRYYIYEMVQHIK9GNXFVILHYAKKPVBQSNTCBCKVPDM9Z
 # ETH: 0xb205a4560bbc9840b80d36245333401e65d4f05e
 # BTC: 395vsb41m46voFyhrgYMh6TauWKmNqJAtm
 # Thanks!
